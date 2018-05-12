@@ -1,0 +1,48 @@
+_repo: The-Old-English-Physiologus_14529
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Cook, Albert S. (Albert Stanburrough)
+    alias: Cook, Albert Stanburrough
+    birthdate: 1853
+    deathdate: 1927
+    gutenberg_agent_id: '5565'
+    url: http://www.gutenberg.org/2009/agents/5565
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Stanburrough_Cook
+  - agent_name: Pitman, James Hall
+    birthdate: 1896
+    gutenberg_agent_id: '7077'
+    url: http://www.gutenberg.org/2009/agents/7077
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cynewulf
+    aliases:
+    - Cynwulf
+    - Kynewulf
+    gutenberg_agent_id: '5684'
+    url: http://www.gutenberg.org/2009/agents/5684
+    wikipedia: http://en.wikipedia.org/wiki/Cynewulf
+description: 'Three short poems of the Exeter book: The panther, The whale, and The
+  partridge; often ascribed to Cynewulf.'
+gutenberg_issued: '2004-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14529'
+language:
+- ang
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Exeter book'
+- !lcsh 'Didactic poetry, English (Old)'
+- !lcsh 'Animals -- Folklore -- Early works to 1800'
+- !lcc 'PR'
+- !lcsh 'Bestiaries'
+- !lcsh 'Animals -- Folklore -- Poetry'
+title: The Old English Physiologus
+url: http://www.gutenberg.org/ebooks/14529
