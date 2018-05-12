@@ -27,6 +27,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Cynewulf
 description: 'Three short poems of the Exeter book: The panther, The whale, and The
   partridge; often ascribed to Cynewulf.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14529#The-Old-English-Physiologus
 gutenberg_issued: '2004-12-30'
 gutenberg_type: Text
 identifiers:
